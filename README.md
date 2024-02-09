@@ -78,7 +78,7 @@ Abra [http://localhost:3000](http://localhost:3000) no seu navegador de preferen
 
 - Ainda é necessário que os testes sejam feitos.
 - A responsividade ainda não está totalmente pronta.
-- Dificuldades na utilização da biblioteca Zustand, fizem com que os wizzards se perdem apos a criação, assim deixei dois wizzards prontos para poder testar. Ele é guardado na store, mas não é mantido quando trocamos de página, assim necessita de coreções.
+- Dificuldades na utilização da biblioteca Zustand, fazem com que os wizzards se perdem apos a criação, assim deixei dois wizzards prontos para poder testar. Ele é guardado na store, mas não é mantido quando trocamos de página, assim necessita de coreções.
 - Espero que vocês possam avaliar o que foi feito.
 
 Obrigado.
